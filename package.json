@@ -1,0 +1,22 @@
+{
+  "name": "chat_plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisishasan/chat_plugin.git"
+  },
+  "author": "Hasan Ilyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thisishasan/chat_plugin/issues"
+  },
+  "homepage": "https://github.com/thisishasan/chat_plugin#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
